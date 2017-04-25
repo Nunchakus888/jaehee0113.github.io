@@ -20,7 +20,7 @@ module Jekyll
 
     def initialize(tag_name, variables, tokens)
     	super
-        @words = JSON.parse(IO.read(File.join(File.dirname(__FILE__), '../assets/json/localization.json')))
+        @words = JSON.parse(IO.read(File.join(File.dirname(__FILE__), '../_data/localization.json')))
         @init = variables.split(" ")
         if @init[0] != 'word'
             @variables = variables.split(" ")

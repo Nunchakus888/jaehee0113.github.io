@@ -1,13 +1,10 @@
----
-# Main scss file that would import other scss files
----
-
-// Imports
-
 @import '_mixins/_breakpoint.scss';
 
 @import '_configurations/color.scss';
+@import '_configurations/variables.scss';
+
 @import '_configurations/base.scss';
+
 
 @import '_blocks/site.scss';
 @import '_blocks/menu.scss';
