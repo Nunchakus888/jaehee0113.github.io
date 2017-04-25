@@ -2,7 +2,7 @@
 layout: post
 title: "My blog and why I use Jekyll"
 categories:
- - blog
+ - web_programming
 date: 2017-01-13
 comments: true
 disqus_identifier: df3f835a5d59f934

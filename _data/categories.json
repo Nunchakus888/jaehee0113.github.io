@@ -10,10 +10,6 @@
     "title": "Web Programming",
     "href": "/web_programming",
     "id": "web_programming"
-  }, {
-    "title": "Algorithms",
-    "href": "/algorithms",
-    "id": "algorithms"
   }]
 }, {
   "title": "Language",
@@ -31,7 +27,16 @@
 }, {
   "title": "Blog",
   "href": "/blog",
-  "id": "blog"
+  "id": "blog",
+  "subcategories": [{
+    "title": "Travel",
+    "href": "/travel",
+    "id": "travel"
+  }, {
+    "title": "Work",
+    "href": "/work",
+    "id": "work"
+  }]
 }, {
   "title": "General",
   "href": "/general",

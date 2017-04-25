@@ -224,5 +224,19 @@
     "de": "Dezember"
   }, {
     "ko": "12월"
+  }],
+  "travel": [{
+    "en": "Travel"
+  }, {
+    "de": "Reisen"
+  }, {
+    "ko": "여행"
+  }],
+  "work": [{
+    "en": "Work"
+  }, {
+    "de": "Arbeit"
+  }, {
+    "ko": "일 관련"
   }]
 }

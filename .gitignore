@@ -1,2 +1,4 @@
-.sass-cache 
-._site .jekyll-metadata
+.sass-cache .jekyll-metadata 
+node_modules/
+_site/
+public/

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "호주 이민에 대한 나의 생각"
-category: blog
+category: travel
 date: 2017-04-20
 comments: true
 disqus_identifier: fb04e6291c8cda10
