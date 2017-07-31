@@ -3,7 +3,7 @@
 
 # Site settings
 
-title: Philsensus
+title: Jae Hee Lee
 email: jaeheelee0113@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Philsensus's Blog.
@@ -22,7 +22,7 @@ linkedin_username: jaehee0113
 disqus_shortname: Philsensus
 
 # txtpen settings (shortname is sufficient)
-txtpen_sitename: 
+txtpen_sitename:
 
 # Build settings
 markdown: kramdown
@@ -43,6 +43,9 @@ exclude:
   - screenshot.png
   - LICENSE.txt
   - README.md
+
+# Related posts settings
+max_related_posts_num: 4
 
 # Jekyll paginate settings
 paginate: 5

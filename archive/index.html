@@ -14,6 +14,12 @@ title: Archive
       <div class="card-details">
         <div class="card-details-header">
           <span class="card-details-header-title">{{post.title}}</span>
+          <span class="card-details-header-category">
+          {% for category in post.categories %}
+            {% assign word = category %} 
+            {% localize word %}
+          {% endfor %}
+          </span>
           <span class="card-details-header-date">{{post.date | date_to_long_string}}</span>
         </div>
         <div class="card-details-main">

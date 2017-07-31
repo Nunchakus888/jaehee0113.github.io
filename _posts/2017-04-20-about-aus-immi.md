@@ -5,6 +5,7 @@ category: travel
 date: 2017-04-20
 comments: true
 disqus_identifier: fb04e6291c8cda10
+highlights: false
 ---
 
 <h1> 나의 이민 과정 </h1>

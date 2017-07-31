@@ -11,6 +11,11 @@
   }, {
     "ko": "한국어"
   }],
+  "biography" : [
+    {"en" : "Biography"},
+    {"de" : "Biografie"},
+    {"ko" : "프로필"}
+  ],
   "about" : [
     {"en" : "About"},
     {"de" : "Über"},
@@ -238,5 +243,187 @@
     "de": "Arbeit"
   }, {
     "ko": "일 관련"
+  }],
+  "available_in_all_lang": [{
+    "en": "This page is available in supported languages."
+  }, {
+    "de": "Dieses Page ist verfügbar auf gelisteten Sprachen."
+  }, {
+    "ko": "이 페이지는 지원되는 모든 언어로 번역되어 있습니다."
+  }],
+  "short_bio": [{
+    "en": "Versatile Software Engineer and Student who is craving for interesting opportunities"
+  },{
+    "de": "Vielfältiger Software Engineer und Student, der immer neue Gelegenheiten sucht"
+  },{
+    "ko": "새로운 기회들을 잡고싶은 학생이자 소프트웨어 개발자입니다."
+  }],
+  "brief": [{
+    "en": "Brief"
+  }, {
+    "de": "Übersicht"
+  }, {
+    "ko": "요약"
+  }],
+  "brief_1": [{
+    "en": "My name is Jae Hee Lee, currently working as a software engineer at Adelphi Digital ('AD')."
+  }, {
+    "de": "Ich heiße Jae Hee Lee, der als Software Entwickler bei Adelphi Digital (AD) arbeite."
+  }, {
+    "ko": "Adelphi Digital 에서 개발자로 일하고 있습니다."
+  }],
+  "brief_2": [{
+    "en": "Prior to working at AD, I worked as a software engineer and data science engineer for about 2 years."
+  }, {
+    "de": "Bevor ich bei AD arbeite habe ich als Software Entwickler und Data Science Entwickler für zwei Jahre gearbeitet."
+  }, {
+    "ko": "AD에서 일하기전, 2년동안 개발자 와 데이터 사이언스 개발자로 일했습니다."
+  }],
+  "brief_3": [{
+    "en": "Before working in industry, I worked as a research intern at Data 61, Commonwealth Scientific and Industrial Search Organisation (CSIRO), formerly National ICT Australia (NICTA), under Dr Ihor Kuz on the topic in trustworthy systems."
+  }, {
+    "de": "Bevor ich in der Industrie arbeite, war ich ein Practikant bei Data 61,  Commonwealth Scientific and Industrial Search Organisation (CSIRO), vormals bekannt als National ICT Australia, unter der Instruktion des Professors Ihor Kuz auf dem Thema in Trustworthy Systems."
+  }, {
+    "ko": "개발직으로 뛰어들기 전에, Data 61 CSIRO 에서 연구 인턴으로 일했습니다."
+  }],
+  "brief_4": [{
+    "en": "I am a student at the Australian National University, pursuing a degree in law and information technology. In 2013, I obtained my bachelor of information technology. Therefore, I am an alumnus as well as a current student."
+  }, {
+    "de": "Ich bin ebenfalls ein Student an der Australian National Universität."
+  }, {
+    "ko": "현재 오스트레일리아 국립 대학교에서 법학과 정보기술학을 공부하고 있는 학생입니다. 2013년에 정보기술학위를 취득하였습니다. 그래서 졸업생 이기도 합니다."
+  }],
+  "brief_5": [{
+    "en": "Apart from work, I enjoy learning new languages, composing music and watching dramas and movies."
+  }, {
+    "de": "Abgesehen von Arbeiten liebe ich, neue Sprachen zu lernen, eine Musik zu komponieren und Film und Drama anzusehen."
+  }, {
+    "ko": "일적인 외에, 언어 공부, 작곡, 영화 또는 드라마 보는 것을 좋아합니다."
+  }],
+  "education": [{
+    "en": "Education"
+  }, {
+    "de": "Bildung"
+  }, {
+    "ko": "학력"
+  }],
+  "online_education": [{
+    "en": "Online Degrees / Courses"
+  }, {
+    "de": "Online Bildung"
+  }, {
+    "ko": "온라인 교육"
+  }],
+  "employment": [{
+    "en": "Employment"
+  }, {
+    "de": "Berufliche Erfahrungen"
+  }, {
+    "ko": "경력"
+  }],
+  "key_projects": [{
+    "en": "Key Projects"
+  }, {
+    "de": "Hauptprojekte"
+  }, {
+    "ko": "핵심 프로젝트"
+  }],
+  "programming_skills": [{
+    "en": "Programming Skills"
+  }, {
+    "de": "Programmierung"
+  }, {
+    "ko": "포로그래밍"
+  }],
+  "version_control": [{
+    "en": "Version Control"
+  }, {
+    "de": "Versionsverwaltung"
+  }, {
+    "ko": "버젼 관리"
+  }],
+  "related_posts": [{
+    "en": "Related Posts"
+  }, {
+    "de": "Verwandte Beiträge"
+  }, {
+    "ko": "관련 포스트"
+  }],
+  "au": [{
+    "en": "Australia"
+  }, {
+    "de": "Australien"
+  }, {
+    "ko": "오스트레일리아"
+  }],
+  "in": [{
+    "en": "Indonesia"
+  }, {
+    "de": "Indonesien"
+  }, {
+    "ko": "인도네시아"
+  }],  
+  "ch": [{
+    "en": "Switzerland"
+  }, {
+    "de": "Schweiz"
+  }, {
+    "ko": "스위스"
+  }],  
+  "my": [{
+    "en": "Malaysia"
+  }, {
+    "de": "Malaysia"
+  }, {
+    "ko": "말레이시아"
+  }],  
+  "sg": [{
+    "en": "Singapore"
+  }, {
+    "de": "Singapur"
+  }, {
+    "ko": "싱가포르"
+  }],
+  "nz": [{
+    "en": "New Zealand"
+  }, {
+    "de": "Neuseeland"
+  }, {
+    "ko": "뉴질랜드"
+  }],
+  "int_exp": [{
+    "en": "Experience Abroad"
+  }, {
+    "de": "Ausländische Erfahrungen"
+  }, {
+    "ko": "해외 경험"
+  }],
+  "citizenship": [{
+    "en": "Citizenship"
+  }, {
+    "de": "Staatsangehörigkeit"
+  }, {
+    "ko": "국적"
+  }],
+  "citizenship_detail": [{
+    "en": "I am a <b>South Korean citizen</b> and an <b>Australian permanent resident</b>."
+  }, {
+    "de": "Ich bin <b>ein Südkoreaner</b> und habe <b>ein Visum für Daueraufenthalt in Australien</b>"
+  }, {
+    "ko": "<b>한국인</b> 이고 <b>호주에서 무기한으로 거주할 수 있는 영주 비자</b>를 갖고 있습니다."
+  }],
+  "server": [{
+    "en": "Server"
+  }, {
+    "de": "Server"
+  }, {
+    "ko": "서버"
+  }],
+  "download_cv": [{
+    "en": "You can download CV instead here"
+  }, {
+    "de": "Klicken Sie das rechte Icon, um meinen Lebenslauf herunterzuladen"
+  }, {
+    "ko": "오른쪽 아이콘을 클릭하여 이력서를 다운 받으실 수 있습니다"
   }]
 }

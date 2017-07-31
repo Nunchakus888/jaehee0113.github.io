@@ -6,7 +6,7 @@
   </div>
   <ul class="post-list">
     {% assign posts = site.posts | sort:"date" | reverse %}
-    {% for post in posts limit: 3 %}
+    {% for post in posts limit: 4 %}
     <li class="post-list-enclosure-2pr">
       <div class="card-details">
         <div class="card-details-header">
@@ -14,7 +14,8 @@
 
           <span class="card-details-header-category">
           {% for category in post.categories %}
-            {{category}}
+            {% assign word = category %} 
+            {% localize word %}
           {% endfor %}
           </span>
           <span class="card-details-header-date">
@@ -32,7 +33,7 @@
           </span>
         </div>
         <div class="card-details-main">
-          {{post.content | truncatewords: 30}}
+          {{post.content | strip_html | truncatewords: 30}}
         </div>
         <div class="card-details-readmore">
           <a href="{{post.url}}">{% localize readmore %} > </a>

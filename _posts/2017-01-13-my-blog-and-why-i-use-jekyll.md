@@ -6,6 +6,7 @@ categories:
 date: 2017-01-13
 comments: true
 disqus_identifier: df3f835a5d59f934
+highlights: false
 ---
 
 So this is my first blog powered by Jekyll. The main reason for using this ecosystem is because this gives me the flexibility to tweak things around. Furthermore, blogging using Jekyll allows easy code snippetting for example consider the example below:

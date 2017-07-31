@@ -3,13 +3,17 @@
   "href": "/computing",
   "id": "computing",
   "subcategories": [{
-    "title": "Machine Learning",
-    "href": "/machine_learning",
-    "id": "machine_learning"
+    "title": "Server",
+    "href": "/server",
+    "id": "server"
   }, {
     "title": "Web Programming",
     "href": "/web_programming",
     "id": "web_programming"
+  }, {
+    "title": "Version Control",
+    "href": "/version_control",
+    "id": "version_control"
   }]
 }, {
   "title": "Language",
@@ -25,19 +29,41 @@
     "id": "english"
   }]
 }, {
-  "title": "Blog",
-  "href": "/blog",
-  "id": "blog",
+  "title": "Work",
+  "href": "/work",
+  "id": "work"
+},
+{
+  "title": "International Experience",
+  "href": "/int_exp",
+  "id": "int_exp",
   "subcategories": [{
-    "title": "Travel",
-    "href": "/travel",
-    "id": "travel"
+    "title": "Singapore",
+    "href": "/sg",
+    "id": "sg"
   }, {
-    "title": "Work",
-    "href": "/work",
-    "id": "work"
+    "title": "Malaysia",
+    "href": "/my",
+    "id": "my"
+  }, {
+    "title": "Australia",
+    "href": "/au",
+    "id": "au"
+  }, {
+    "title": "New Zealand",
+    "href": "/nz",
+    "id": "nz"
+  }, {
+    "title": "Indonesia",
+    "href": "/in",
+    "id": "in"
+  }, {
+    "title": "Switzerland",
+    "href": "/ch",
+    "id": "ch"
   }]
-}, {
+},
+{
   "title": "General",
   "href": "/general",
   "id": "general"
